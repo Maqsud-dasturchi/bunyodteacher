@@ -1,0 +1,16 @@
+# Edu Star Bot - Python kutubxonalari
+# Render.com 24/7 uchun yangilangan versiyalar
+
+# Telegram bot framework
+aiogram==3.24.0
+
+# Excel fayllari bilan ishlash
+pandas==2.3.3
+openpyxl==3.1.2
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Additional dependencies
+aiohttp==3.8.5
+magic-filter==1.0.12
